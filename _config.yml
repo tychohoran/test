@@ -2,6 +2,9 @@
 title: TestSite
 timezone: UTC
 collections:
+  layouts:
+    title: Layouts
+    output: true
   posts:
     title: Posts
     output: true
